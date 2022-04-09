@@ -4,7 +4,7 @@
 
 # Site
 title: 念一
-subtitle: ''
+#subtitle: ''
 description: '心心念念,始终如一'
 keywords: thomasliew的博客
 author: Thomas Liew
@@ -100,10 +100,12 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 
-# git clone -b master https://gitee.com/immyw/hexo-theme-butterfly.git themes/butterfly
+
 theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: 'git'
+  repo: 'https://gitee.com/thomasliew/nianyi.git'
+
