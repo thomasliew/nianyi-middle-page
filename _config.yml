@@ -99,6 +99,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
+
+# git clone -b master https://gitee.com/immyw/hexo-theme-butterfly.git themes/butterfly
 theme: butterfly
 
 # Deployment
