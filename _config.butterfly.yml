@@ -79,7 +79,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://public-pangchun.oss-cn-guangzhou.aliyuncs.com/img/wallhaven-rdwjj7.jpg
+  img: https://nianyi-static.oss-cn-beijing.aliyuncs.com/img/top_img_1.jpg
   effect: false
 
 # Disable all banner image
@@ -91,7 +91,7 @@ index_img:
 # top_img: true
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://public-pangchun.oss-cn-guangzhou.aliyuncs.com/img/wallhaven-rdwjj7.jpg
+default_top_img: https://nianyi-static.oss-cn-beijing.aliyuncs.com/img/top_img_1.jpg
 
 # The banner image of archive page
 archive_img:
